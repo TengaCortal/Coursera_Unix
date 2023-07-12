@@ -1,28 +1,25 @@
-# This is a large heading
+# Tenga Cortal 
 
-## This is a smaller heading
+### Localistation
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Rouen, in the region of Normandie, in the north west of France.
 
-- This is
-- an unordered
-- list
+### Movies
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite films are: 
 
-Here is `some code` in the middle of a sentence.
+- The Last Samurai 
+- The Lord Of The Rings
+- Forest Gump
 
-```
-This is
-a block
-of code
-```
+### Hobbies
 
-Here is how you make [a link](https://www.wikipedia.org/).
+- Chess (lichess elo:2000+)
+- Street Workout
+- Generetive AI Art
 
 ![This is one of my generative AI artworks.](Kaguya.png)
+
+### Contact 
+
+The best way to get in touch with me is [on LinkedIn](https://www.linkedin.com/in/tenga-cortal-63b8ba194/)
