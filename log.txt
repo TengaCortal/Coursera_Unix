@@ -1,0 +1,17 @@
+commit c7aaaa52f0692b99e944f487f66470a54ba98093
+Author: TengaCortal <tc.milkyway@gmail.com>
+Date:   Wed Jul 12 02:13:38 2023 +0200
+
+    added gitignore
+
+commit edb5eb111a7387b38588705dd15a704f9ad068aa
+Author: TengaCortal <tc.milkyway@gmail.com>
+Date:   Wed Jul 12 02:08:15 2023 +0200
+
+    added two files
+
+commit 5417de37fa8816f102da23a65217e03f47a1666a
+Author: TengaCortal <tc.milkyway@gmail.com>
+Date:   Wed Jul 12 02:06:38 2023 +0200
+
+    added readme.txt
