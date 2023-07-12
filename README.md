@@ -25,4 +25,4 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is on of my generative AI artwork.](Kaguya.png)
+![This is one of my generative AI artworks.](Kaguya.png)
